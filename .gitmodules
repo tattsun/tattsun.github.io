@@ -1,0 +1,3 @@
+[submodule "projects/websocket-tester"]
+	path = projects/websocket-tester
+	url = git@github.com:tattsun/websocket-tester.git
