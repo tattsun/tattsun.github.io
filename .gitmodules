@@ -1,3 +1,6 @@
 [submodule "projects/websocket-tester"]
 	path = projects/websocket-tester
 	url = https://github.com/tattsun/websocket-tester.git
+[submodule "projects/simple-api-tester"]
+	path = projects/simple-api-tester
+	url = https://github.com/tattsun/simple-api-tester.git
